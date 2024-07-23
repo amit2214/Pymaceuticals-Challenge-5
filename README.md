@@ -1,1 +1,1 @@
-I used the module 5 class recordings and activities to help me complete this challange. I was having some issues creating line and scatter plots, and I used matplotlib's wesbite for references and code.
+I used the module 5 class recordings and activities to help me complete this challenge. I was having some issues creating line and scatter plots, and I used matplotlib's wesbite (https://matplotlib.org/) for references and code. 
